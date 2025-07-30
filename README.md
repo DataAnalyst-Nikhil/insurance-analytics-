@@ -1,4 +1,4 @@
-# insurance-analytics-
+# insurance-analytics
 📊 Insurance Analytics Dashboard 
 
 The Insurance Analytics project aimed to analyze key business performance metrics within an insurance company, focusing on new client acquisition,cross-selling, and renewals across different branches. 
